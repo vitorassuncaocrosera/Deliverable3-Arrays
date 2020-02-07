@@ -1,6 +1,6 @@
 ﻿/*
  Author: Vitor Assuncao Crosera
- Date: 1/30/2020
+ Date: 02/07/2020
  Comments: This C# Console application code demonstrates the use of
               Arrays after getting input from users. 
 */
