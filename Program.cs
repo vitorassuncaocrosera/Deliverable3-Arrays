@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ Author: Vitor Assuncao Crosera
+ Date: 1/30/2020
+ Comments: This C# Console application code demonstrates the use of
+              Arrays after getting input from users. 
+*/
+using System;
 
 namespace Deliverable3_Arrays
 {
@@ -20,6 +26,7 @@ namespace Deliverable3_Arrays
                     number += 1; // add 1 to variable number
                 }
             }
+            // catch function 
             catch
             {
                 Console.WriteLine("Error in the try block");
